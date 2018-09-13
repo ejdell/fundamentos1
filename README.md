@@ -4,7 +4,6 @@
 3. [Movimiento]https://ejdell.github.io/fundamentos1/03/
 4. [Herramienta de dibujo]https://ejdell.github.io/fundamentos1/04/
 5. [Tiempo]https://ejdell.github.io/fundamentos1/05/
-
   5.1 [Hora 0]https://ejdell.github.io/fundamentos1/05/hora0.png/
   5.2 [Hora 8]https://ejdell.github.io/fundamentos1/05/hora8.png/
   5.3 [Hora 9]https://ejdell.github.io/fundamentos1/05/hora9.png/
