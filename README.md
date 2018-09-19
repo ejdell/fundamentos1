@@ -14,4 +14,4 @@
 13. [Hora 21]https://ejdell.github.io/fundamentos1/05/hora21.png/
 14. [Mes 1]https://ejdell.github.io/fundamentos1/05/mes1.png/
 15. [Mes 12]https://ejdell.github.io/fundamentos1/05/mes12.png/
-16. [Music Video]https://ejdell.github.io/fundamentos1/06/
+16. [Music Video (https://ejdell.github.io/fundamentos1/06/)
