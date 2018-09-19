@@ -14,4 +14,4 @@
 5.8 [Hora 21]https://ejdell.github.io/fundamentos1/05/hora21.png/
 5.9 [Mes 1]https://ejdell.github.io/fundamentos1/05/mes1.png/
 5.10 [Mes 12]https://ejdell.github.io/fundamentos1/05/mes12.png/
-6. []https://ejdell.github.io/fundamentos1/06/
+6. [Music Video]https://ejdell.github.io/fundamentos1/06/
