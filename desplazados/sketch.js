@@ -15,15 +15,15 @@ var botSegX = 385;
 var botSegY = 185;
 var botSegTam = 30;
 //Boton Segunda Parte Bolivar
-var botBoliX = 685;
+var botBoliX = 600;
 var botBoliY = 35;
 var botBoliTam = 30;
 //Boton Segunda Parte BOGOTA
-var botBogoX = 685;
+var botBogoX = 635;
 var botBogoY = 35;
 var botBogoTam = 30;
 //Boton Tercera Parte
-var botTerX = 685;
+var botTerX = 670;
 var botTerY = 35;
 var botTerTam = 30;
 
