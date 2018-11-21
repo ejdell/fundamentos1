@@ -8,3 +8,4 @@
 7. [_Music Video_](https://ejdell.github.io/fundamentos1/06/)
 8. [_Ecosistema_](https://ejdell.github.io/fundamentos1/07/)
 9. [_Desplazados_](https://ejdell.github.io/fundamentos1/desplazados/)
+10. [_Desplazados 2_](https://ejdell.github.io/fundamentos1/desplazados_v2/)
